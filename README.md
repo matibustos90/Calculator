@@ -1,2 +1,2 @@
-# calculadora
-Una simple calculadora 
+# Calculator
+A simple calculator. 
